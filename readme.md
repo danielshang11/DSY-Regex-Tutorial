@@ -120,6 +120,9 @@ a[bc]      same as (b|c), but without capturing b or c
 https://code.tutsplus.com/tutorials/8-regular-expressions-you-should-know--net-6149
 https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285
 https://regexr.com/
+[Regular Expression Tutorial](https://coding-boot-camp.github.io/full-stack/computer-science/regex-tutorial)
+[How to create gists](https://docs.github.com/en/get-started/writing-on-github/editing-and-sharing-content-with-gists/creating-gists)
+[How to Use Gists](https://www.youtube.com/watch?v=wc2NlcWjQHw&ab_channel=DigitalHorizon)
 ## Author
 
 [Daniel's Github Link](https://github.com/danielshang11)
